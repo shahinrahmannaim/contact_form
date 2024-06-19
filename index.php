@@ -2,10 +2,10 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Simple Contact Form</title>
+    <title>Contact Form</title>
 </head>
 <body>
-    <h2>Contact Form</h2>
+    <h2>Formulaire de contact</h2>
 
     <?php
     // Define the contacts file
